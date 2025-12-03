@@ -1,2 +1,4 @@
-public class Scoreboard {
+public class Scoreboard 
+{
+  
 }
